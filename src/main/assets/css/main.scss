@@ -1,0 +1,35 @@
+body {
+    background-color: #333;
+    color: #fff;
+}
+
+a, a:visited, a:hover {
+    color: #fff;
+}
+
+input {
+    background-color: #000;
+}
+
+div[role=main] {
+    padding-top: 2rem;
+}
+
+.poll-form {
+    .options {
+        .option {
+            padding: .5rem 0;
+        }
+    }
+}
+
+.registration-form {
+    max-width: 450px;
+    margin: 0 auto;
+}
+
+.poll-option {
+    padding: 1rem;
+    margin: .5rem 0;
+    background-color: rgba($color: #111, $alpha: .25);
+}
