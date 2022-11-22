@@ -24,7 +24,7 @@
         "ts-loader": "^5.4.5",
         "typescript": "^3.7.5",
         "webpack": "^4.42.1",
-        "webpack-cli": "^3.3.11"
+        "webpack-cli": "^3.3.12"
     },
     "license": "UNLICENSED",
     "private": true,
